@@ -1,0 +1,17 @@
+# Сборка
+bin/
+obj/
+publish/
+publish_folder/
+*.user
+*.suo
+.vs/
+.idea/
+
+# Логи и локальные настройки
+*.log
+config.json
+
+# Прочее
+Thumbs.db
+desktop.ini
