@@ -1,5 +1,7 @@
 # Баланс Bybit на панели задач
 
+[![build](https://github.com/itkrasikov-bit/bybit-taskbar-balance/actions/workflows/build.yml/badge.svg)](https://github.com/itkrasikov-bit/bybit-taskbar-balance/actions/workflows/build.yml)
+
 Маленький чип, который живёт прямо на панели задач Windows 11 (рядом с треем)
 и показывает баланс аккаунта Bybit. Обновляется сам, не мешает работе и не лезет
 в системный трей иконкой.
